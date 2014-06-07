@@ -9,6 +9,10 @@ LocalizedString for Cocos2d-x ver 3.0
 
 2. Create LocalizedString.plist to Resources folder, and do Localization.
 
+![LocalizedString.plist](https://raw.githubusercontent.com/kuman/cocos2dx-localized-string/master/images/capture1.png)
+
+![LocalizedString example](https://raw.githubusercontent.com/kuman/cocos2dx-localized-string/master/images/capture2.png)
+
 ```
 #include "LocalizedString/LocalizedString.h"
 
